@@ -1,7 +1,7 @@
 url: $SONAR_URL
-status: up
-code: 200
-responseTime: 1154
-lastUpdated: 2022-02-17T22:47:13.593Z
+status: down
+code: 502
+responseTime: 238
+lastUpdated: 2022-02-17T23:13:58.330Z
 startTime: Thu Feb 17 2022 01:53:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
