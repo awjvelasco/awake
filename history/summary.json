@@ -94,19 +94,19 @@
     "url": "$SONAR_URL",
     "icon": "https://awake.travel/vendor/Monitor/sonar.png",
     "slug": "sonar",
-    "status": "up",
-    "uptime": "89.05%",
-    "uptimeDay": "89.05%",
-    "uptimeWeek": "89.05%",
-    "uptimeMonth": "89.05%",
-    "uptimeYear": "89.05%",
-    "time": 328,
-    "timeDay": 328,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 304,
+    "timeDay": 304,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-02-17": 19
+      "2022-02-17": 0
     }
   },
   {
