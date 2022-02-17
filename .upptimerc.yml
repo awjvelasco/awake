@@ -1,31 +1,101 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: jovel882 # Your GitHub organization or username, where this repository lives
+repo: awake # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: AWAKE
+    url: $AWAKE_URL
+    icon: https://awake.travel/vendor/Monitor/awake.png
+  - name: INTEGRACIONES
+    url: $INTEGRACIONES_URL
+    icon: https://awake.travel/vendor/Monitor/integraciones.png
+  - name: NTDS
+    url: $NTDS_URL
+    icon: https://awake.travel/vendor/Monitor/ntds.jpg
+  - name: AWAKEU
+    url: $AWAKEU_URL
+    icon: https://awake.travel/vendor/Monitor/AwakeU.ico
+  - name: NAS
+    url: $NAS_URL
+    icon: https://awake.travel/vendor/Monitor/nas.png
+  - name: SONAR
+    url: $SONAR_URL
+    icon: https://awake.travel/vendor/Monitor/sonar.png
+  - name: JENKINS
+    url: $JENKINS_URL
+    icon: https://awake.travel/vendor/Monitor/jenkins.svg
+    expectedStatusCodes:
+      - 403
+assignees: # Users to assign downtime issues (optional)
+  - jovel882    
+i18n:
+  activeIncidents: Incidencias activas
+  allSystemsOperational: Todos los sistemas operativos
+  incidentReport: "Incidente #$NUMBER informe →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Incidente $NUMBER Detalles
+  incidentDetails: Detalles del incidente
+  incidentFixed: Fijos
+  incidentOngoing: Continuo
+  incidentOpenedAt: Abierto a las
+  incidentClosedAt: Cerrado
+  incidentSubscribe: Suscríbete a las actualizaciones
+  incidentViewOnGitHub: Ver en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todas las incidencias
+  pastIncidents: Incidencias anteriores
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estado en directo
+  overallUptime: "Tiempo de actividad general: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
+  averageResponseTimeTitle: Respuesta media.
+  sevelDayResponseTime: tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta de pico(ms)
+  up: Arriba
+  down: Abajo
+  degraded: Degradada
+  ms: ms
+  loading: Carga
+  navGitHub: GitHub
+  footer: '©Awake Travel es una marca propiedad de: Los viajes del boga SAS.'
+  rateLimitExceededTitle: Límite excedido
+  rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que ha consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Como alternativa, puede agregar su token de acceso personal de GitHub, que le brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda a generar un token de acceso personal
+  rateLimitExceededHasSet: Tienes un conjunto de tokens de acceso personal.
+  rateLimitExceededRemoveToken: Quitar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Se produjo un error al intentar obtener los detalles de estado más recientes.
+  errorText: Puedes volver a intentarlo en unos momentos.
+  errorHome: Ir a la página de inicio
+  pastScheduledMaintenance: mantenimiento programado
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Comenzó el $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos
+  startedAt: Comenzó en
+  startsAt: Empieza a las
+  duration: Duración
+  durationMin: Minutos de duración
+  incidentCompleted: Realizado
+  incidentScheduled: Programado
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: monitor.awake.travel
+  # baseUrl: /awake
+  logoUrl: https://awake.travel/vendor/Monitor/logo.png
+  favicon: https://awake.travel/vendor/Monitor/awake.png
+  name: Monitor Awake
+  theme: night
+  introTitle: "### Esta es una pagina que informa el estado de los servicios de Awake."
+  introMessage: 
   navbar:
-    - title: Status
+    - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
