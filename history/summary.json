@@ -5,19 +5,17 @@
     "icon": "https://awake.travel/vendor/Monitor/awake.png",
     "slug": "awake",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1194,
-    "timeDay": 949,
-    "timeWeek": 1213,
-    "timeMonth": 1194,
-    "timeYear": 1194,
-    "dailyMinutesDown": {
-      "2022-02-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1228,
+    "timeDay": 1026,
+    "timeWeek": 1233,
+    "timeMonth": 1228,
+    "timeYear": 1228,
+    "dailyMinutesDown": {}
   },
   {
     "name": "INTEGRACIONES",
@@ -25,19 +23,17 @@
     "icon": "https://awake.travel/vendor/Monitor/integraciones.png",
     "slug": "integraciones",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 580,
-    "timeDay": 447,
-    "timeWeek": 570,
-    "timeMonth": 580,
-    "timeYear": 580,
-    "dailyMinutesDown": {
-      "2022-02-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 584,
+    "timeDay": 446,
+    "timeWeek": 587,
+    "timeMonth": 584,
+    "timeYear": 584,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NTDS",
@@ -45,19 +41,17 @@
     "icon": "https://awake.travel/vendor/Monitor/ntds.jpg",
     "slug": "ntds",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1882,
-    "timeDay": 1117,
-    "timeWeek": 1997,
-    "timeMonth": 1882,
-    "timeYear": 1882,
-    "dailyMinutesDown": {
-      "2022-02-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1864,
+    "timeDay": 1171,
+    "timeWeek": 2057,
+    "timeMonth": 1864,
+    "timeYear": 1864,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AWAKEU",
@@ -65,19 +59,17 @@
     "icon": "https://awake.travel/vendor/Monitor/AwakeU.ico",
     "slug": "awakeu",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 411,
-    "timeDay": 417,
-    "timeWeek": 406,
-    "timeMonth": 411,
-    "timeYear": 411,
-    "dailyMinutesDown": {
-      "2022-02-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 415,
+    "timeDay": 346,
+    "timeWeek": 427,
+    "timeMonth": 415,
+    "timeYear": 415,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NAS",
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 1033,
-    "timeWeek": 721,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "time": 718,
+    "timeDay": 575,
+    "timeWeek": 729,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   },
   {
@@ -103,19 +95,17 @@
     "icon": "https://awake.travel/vendor/Monitor/sonar.png",
     "slug": "sonar",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 641,
-    "timeDay": 195,
-    "timeWeek": 333,
-    "timeMonth": 641,
-    "timeYear": 641,
-    "dailyMinutesDown": {
-      "2022-02-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 626,
+    "timeDay": 174,
+    "timeWeek": 343,
+    "timeMonth": 626,
+    "timeYear": 626,
+    "dailyMinutesDown": {}
   },
   {
     "name": "JENKINS",
@@ -128,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 255,
-    "timeWeek": 386,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 336,
+    "timeDay": 220,
+    "timeWeek": 400,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   }
 ]
