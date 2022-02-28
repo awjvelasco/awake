@@ -22,9 +22,9 @@
     "url": "$INTEGRACIONES_URL",
     "icon": "https://awake.travel/vendor/Monitor/integraciones.png",
     "slug": "integraciones",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 594,
     "timeMonth": 602,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "NTDS",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 599,
     "timeDay": 235,
-    "timeWeek": 345,
+    "timeWeek": 215,
     "timeMonth": 599,
     "timeYear": 599,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 209,
-    "timeWeek": 399,
+    "timeWeek": 210,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {}
