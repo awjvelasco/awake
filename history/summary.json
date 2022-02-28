@@ -22,19 +22,19 @@
     "url": "$INTEGRACIONES_URL",
     "icon": "https://awake.travel/vendor/Monitor/integraciones.png",
     "slug": "integraciones",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 793,
-    "timeWeek": 594,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1762,
+    "timeDay": 9400,
+    "timeWeek": 2335,
+    "timeMonth": 1762,
+    "timeYear": 1762,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 7
     }
   },
   {
