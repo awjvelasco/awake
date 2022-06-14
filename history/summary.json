@@ -4,10 +4,10 @@
     "url": "$AWAKE_URL",
     "icon": "https://awake.travel/vendor/Monitor/awake.png",
     "slug": "awake",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1248,
@@ -15,7 +15,9 @@
     "timeWeek": 1502,
     "timeMonth": 1316,
     "timeYear": 1248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-14": 1
+    }
   },
   {
     "name": "INTEGRACIONES",
@@ -87,7 +89,7 @@
     "status": "up",
     "uptime": "89.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.45%",
+    "uptimeWeek": "65.06%",
     "uptimeMonth": "60.73%",
     "uptimeYear": "89.73%",
     "time": 764,
