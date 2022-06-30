@@ -1,7 +1,7 @@
 url: $AWAKEU_URL
-status: down
-code: 403
-responseTime: 65
-lastUpdated: 2022-06-30T09:55:42.108Z
+status: up
+code: 200
+responseTime: 379
+lastUpdated: 2022-06-30T10:14:46.339Z
 startTime: Thu Feb 17 2022 01:53:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
