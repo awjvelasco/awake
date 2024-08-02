@@ -4,19 +4,19 @@
     "url": "$AWAKE_URL",
     "icon": "https://awake.travel/vendor/Monitor/awake.png",
     "slug": "awake",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 1548,
-    "timeWeek": 623,
-    "timeMonth": 330,
+    "time": 383,
+    "timeDay": 1160,
+    "timeWeek": 597,
+    "timeMonth": 332,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-08-02": 0
+      "2024-08-02": 7
     }
   },
   {
@@ -256,7 +256,7 @@
     "timeMonth": 280,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-08-02": 1230,
+      "2024-08-02": 1237,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
