@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 250,
-    "timeWeek": 318,
-    "timeMonth": 301,
+    "time": 261,
+    "timeDay": 519,
+    "timeWeek": 329,
+    "timeMonth": 312,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2024-08-02": 7
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 741,
-    "timeDay": 621,
-    "timeWeek": 702,
+    "timeDay": 764,
+    "timeWeek": 727,
     "timeMonth": 741,
     "timeYear": 701,
     "dailyMinutesDown": {
@@ -58,9 +58,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.95%",
     "time": 2261,
-    "timeDay": 1624,
-    "timeWeek": 2126,
-    "timeMonth": 1982,
+    "timeDay": 1710,
+    "timeWeek": 1995,
+    "timeMonth": 1961,
     "timeYear": 2295,
     "dailyMinutesDown": {
       "2024-10-30": 15,
@@ -82,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.15%",
     "time": 339,
-    "timeDay": 407,
-    "timeWeek": 399,
-    "timeMonth": 390,
+    "timeDay": 210,
+    "timeWeek": 397,
+    "timeMonth": 383,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2024-05-31": 1231,
@@ -106,16 +106,16 @@
     "icon": "https://awake.travel/vendor/Monitor/nas.png",
     "slug": "nas",
     "status": "up",
-    "uptime": "88.78%",
+    "uptime": "88.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "79.22%",
-    "uptimeYear": "72.04%",
-    "time": 955,
-    "timeDay": 513,
-    "timeWeek": 647,
+    "uptimeYear": "72.31%",
+    "time": 954,
+    "timeDay": 571,
+    "timeWeek": 652,
     "timeMonth": 962,
-    "timeYear": 980,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-11-03": 28,
       "2024-10-24": 1184,
@@ -257,8 +257,7 @@
       "2023-12-02": 7,
       "2023-11-30": 7,
       "2023-11-24": 7,
-      "2023-11-20": 153,
-      "2023-11-19": 419
+      "2023-11-20": 153
     }
   },
   {
@@ -267,18 +266,19 @@
     "icon": "https://awake.travel/vendor/Monitor/sonar.png",
     "slug": "sonar",
     "status": "down",
-    "uptime": "51.69%",
+    "uptime": "51.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 219,
-    "timeDay": 223,
-    "timeWeek": 188,
+    "timeDay": 228,
+    "timeWeek": 207,
     "timeMonth": 203,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-11-17": 101,
+      "2024-11-18": 99,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -641,8 +641,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -657,9 +656,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 89,
-    "timeWeek": 228,
-    "timeMonth": 233,
+    "timeDay": 110,
+    "timeWeek": 226,
+    "timeMonth": 229,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2023-12-15": 7
