@@ -1,7 +1,7 @@
 url: $NTDS_URL
-status: down
-code: 500
-responseTime: 1012
-lastUpdated: 2025-01-08T23:18:25.010Z
+status: up
+code: 200
+responseTime: 2097
+lastUpdated: 2025-01-09T01:00:27.333Z
 startTime: 2022-02-17T01:53:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
