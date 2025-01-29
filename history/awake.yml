@@ -1,7 +1,7 @@
 url: $AWAKE_URL
-status: down
-code: 502
-responseTime: 1835
-lastUpdated: 2025-01-29T03:00:36.527Z
+status: up
+code: 200
+responseTime: 360
+lastUpdated: 2025-01-29T03:23:22.470Z
 startTime: 2022-02-17T01:53:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
