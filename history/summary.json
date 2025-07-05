@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 327,
-    "timeDay": 174,
-    "timeWeek": 318,
-    "timeMonth": 334,
+    "time": 326,
+    "timeDay": 211,
+    "timeWeek": 311,
+    "timeMonth": 336,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2025-01-29": 23,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 755,
-    "timeDay": 471,
-    "timeWeek": 589,
-    "timeMonth": 648,
+    "timeDay": 700,
+    "timeWeek": 597,
+    "timeMonth": 654,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2025-03-27": 125,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2162,
-    "timeDay": 2189,
-    "timeWeek": 2542,
-    "timeMonth": 2739,
-    "timeYear": 2041,
+    "time": 2164,
+    "timeDay": 2746,
+    "timeWeek": 2522,
+    "timeMonth": 2760,
+    "timeYear": 2045,
     "dailyMinutesDown": {
       "2025-03-26": 6,
       "2025-01-09": 60,
@@ -82,10 +82,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 292,
-    "timeWeek": 411,
-    "timeMonth": 402,
-    "timeYear": 390,
+    "timeDay": 436,
+    "timeWeek": 397,
+    "timeMonth": 403,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -97,11 +97,11 @@
     "uptime": "90.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "86.70%",
+    "uptimeMonth": "94.53%",
+    "uptimeYear": "86.97%",
     "time": 782,
-    "timeDay": 776,
-    "timeWeek": 734,
+    "timeDay": 654,
+    "timeWeek": 723,
     "timeMonth": 649,
     "timeYear": 755,
     "dailyMinutesDown": {
@@ -170,8 +170,7 @@
       "2024-07-12": 1276,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
-      "2024-07-09": 626,
-      "2024-07-05": 856
+      "2024-07-09": 626
     }
   },
   {
@@ -180,18 +179,19 @@
     "icon": "https://awake.travel/vendor/Monitor/sonar.png",
     "slug": "sonar",
     "status": "down",
-    "uptime": "42.09%",
+    "uptime": "42.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 242,
-    "timeDay": 120,
-    "timeWeek": 347,
-    "timeMonth": 348,
+    "timeDay": 228,
+    "timeWeek": 292,
+    "timeMonth": 338,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-07-04": 111,
+      "2025-07-05": 107,
+      "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -554,8 +554,7 @@
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
-      "2024-07-06": 1440,
-      "2024-07-05": 1440
+      "2024-07-06": 1440
     }
   },
   {
@@ -570,9 +569,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 204,
-    "timeWeek": 198,
-    "timeMonth": 246,
+    "timeDay": 553,
+    "timeWeek": 246,
+    "timeMonth": 254,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-04-28": 7
