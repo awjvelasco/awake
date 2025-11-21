@@ -1,7 +1,7 @@
 url: $JENKINS_URL
-status: down
-code: 521
-responseTime: 93
-lastUpdated: 2025-11-21T05:49:26.655Z
+status: up
+code: 403
+responseTime: 883
+lastUpdated: 2025-11-21T05:56:31.799Z
 startTime: 2022-02-17T01:53:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
