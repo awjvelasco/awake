@@ -1,7 +1,7 @@
 url: $SONAR_URL
 status: down
 code: 502
-responseTime: 371
-lastUpdated: 2026-01-19T23:26:12.280Z
+responseTime: 172
+lastUpdated: 2026-01-20T23:28:02.428Z
 startTime: 2022-02-17T01:53:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
