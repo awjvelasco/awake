@@ -91,11 +91,11 @@
     "icon": "https://awake.travel/vendor/Monitor/AwakeU.ico",
     "slug": "awakeu",
     "status": "down",
-    "uptime": "77.66%",
+    "uptime": "77.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "21.55%",
     "uptimeMonth": "3.05%",
-    "uptimeYear": "2.71%",
+    "uptimeYear": "2.57%",
     "time": 13523,
     "timeDay": 19474,
     "timeWeek": 13064,
@@ -456,7 +456,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2026-08-13": 129,
+      "2026-08-13": 891,
       "2026-08-12": 1440,
       "2026-08-11": 1080
     }
@@ -466,10 +466,10 @@
     "url": "$NAS_URL",
     "icon": "https://awake.travel/vendor/Monitor/nas.png",
     "slug": "nas",
-    "status": "up",
-    "uptime": "87.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "87.30%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "57.54%",
     "uptimeYear": "75.35%",
     "time": 656,
@@ -587,7 +587,8 @@
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
-      "2026-07-26": 1201
+      "2026-07-26": 1201,
+      "2026-08-13": 1
     }
   },
   {
@@ -596,7 +597,7 @@
     "icon": "https://awake.travel/vendor/Monitor/sonar.png",
     "slug": "sonar",
     "status": "down",
-    "uptime": "31.68%",
+    "uptime": "31.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -607,7 +608,7 @@
     "timeMonth": 94,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2026-08-13": 129,
+      "2026-08-13": 891,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
