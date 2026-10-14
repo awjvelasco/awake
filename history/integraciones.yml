@@ -1,7 +1,7 @@
 url: $INTEGRACIONES_URL
-status: down
-code: 522
-responseTime: 19779
-lastUpdated: 2026-10-14T01:42:29.818Z
+status: up
+code: 200
+responseTime: 1175
+lastUpdated: 2026-10-14T19:22:48.166Z
 startTime: 2022-02-17T01:53:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
